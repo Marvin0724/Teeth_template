@@ -1,4 +1,3 @@
-# Unbiased dental template and parametric dental models  (Incoming)
+# Unbiased dental template
 Teeth atlas construction
 Unbiased dental template
-Parametric dental models
